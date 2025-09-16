@@ -1,0 +1,6 @@
+a. Pros: 
+    1. Constant collaboration with customers
+    2. Constant value add to custome
+   Cons:
+    1. Difficult to budget timelines due to iterative nature
+    2. Continuous feedback from the customer could create an increase on project scope overtime
