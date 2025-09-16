@@ -7,7 +7,7 @@ a. Pros:
 
 b.
     Scrum Master: All scrum related tasks – JIRA tooling, facilitating sprints and meetings
-    Product Owner:Sets direction for the team, handles releases and stakeholder management
+    Product Owner: Sets direction for the team, handles releases and stakeholder management
 
 c.
 Sprint Planning Meeting:
@@ -23,3 +23,14 @@ Sprint Retrospective Meeting:
     ▪ Occurs at the end of the sprint
     ▪ Discuss work complete and move incomplete work to backlog
     ▪ Close sprint    
+
+d. 
+Story:
+    ▪ A software system requirement that is expressed in a few short
+    sentences
+Epic:
+    ▪ Captures a large body of work that can be broken down into several smaller stories
+Bug:
+    ▪ A bug is a problem which impairs or prevents the functions of a product.
+Task:
+    ▪  A task represents work that needs to be done.
